@@ -9,12 +9,12 @@
 #define APP_TESTING_I2C_TESTING_I2C_H_
 
 
-#include "MCAL_Layer/I2C/Dynamic/Inc/I2C_Cfg.h"
+#include "MCAL_Layer/I2C/Dynamic/inc/I2C_Cfg.h"
 #include "MCAL_Layer/PORT/Dynamic/inc/PORT_Cfg.h"
 #include "MCAL_Layer/IntCtrl/Dynamic/inc/IntCtrl_Cfg.h"
 
 
-#include "MCAL_Layer/I2C/Static/Inc/I2C.h"
+#include "MCAL_Layer/I2C/Static/inc/I2C.h"
 #include "MCAL_Layer/PORT/Static/inc/PORT.h"
 #include "MCAL_Layer/IntCtrl/Static/inc/IntCtrl.h"
 

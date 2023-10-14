@@ -12,7 +12,7 @@
 #include "MCAL_Layer/DIO/Static/inc/DIO.h"
 #include "MCAL_Layer/I2C/Static/inc/I2C.h"
 #include "MCAL_Layer/PORT/Static/inc/PORT.h"
-#include "MCAL_Layer/ADC/Static/Inc/ADC.h"
+#include "MCAL_Layer/ADC/Static/inc/ADC.h"
 #include "MCAL_Layer/IntCtrl/Static/inc/IntCtrl.h"
 #include "MCAL_Layer/PLL/Static/inc/PLL.h"
 

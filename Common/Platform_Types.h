@@ -51,6 +51,8 @@ char* int_to_string(uint32 var);
 
 void selectionSort(sint32 arr[], uint8 n);
 
+void defaultCallback(void);
+
 #define swapPointers(x,y) { *x = *x + *y; *y = *x - *y; *x = *x - *y; }
 
 #define selectionSortWithType(arr,n,the_type) {\

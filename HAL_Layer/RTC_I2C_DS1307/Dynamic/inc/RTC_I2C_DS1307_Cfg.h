@@ -10,7 +10,7 @@
 
 
 #include "../../Static/inc/RTC_I2C_DS1307_Types.h"
-#include "MCAL_Layer/I2C/Dynamic/Inc/I2C_Cfg.h"
+#include "MCAL_Layer/I2C/Dynamic/inc/I2C_Cfg.h"
 
 #define RTC_DS1307_I2C_Channel              I2C_RTC_CHANNEL_NUMBER
 

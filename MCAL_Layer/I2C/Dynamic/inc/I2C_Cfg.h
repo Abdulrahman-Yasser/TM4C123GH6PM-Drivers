@@ -11,8 +11,8 @@
 #ifndef I2C_CFG_H
 #define I2C_CFG_H
 
-#include "../../Static/Inc/I2C_Types.h"
-#include "../../Static/Inc/I2C.h"
+#include "../../Static/inc/I2C_Types.h"
+#include "../../Static/inc/I2C.h"
 
  /**********************************************************************************************************************
   *  GLOBAL CONSTANT MACROS

@@ -13,8 +13,8 @@
 #ifndef MCAL_Layer_PWM_DYNAMIC_INC_PWM_CFG_H_
 #define MCAL_Layer_PWM_DYNAMIC_INC_PWM_CFG_H_
 
-#include "../../Static/Inc/PWM_Types.h"
-#include "../../Static/Inc/PWM.h"
+#include "../../Static/inc/PWM_Types.h"
+#include "../../Static/inc/PWM.h"
 
  /**********************************************************************************************************************
   *  GLOBAL CONSTANT MACROS

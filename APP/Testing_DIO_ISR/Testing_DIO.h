@@ -10,12 +10,12 @@
 
 
 
-#include "MCAL_Layer/DIO/Dynamic/Inc/DIO_Cfg.h"
+#include "MCAL_Layer/DIO/Dynamic/inc/DIO_Cfg.h"
 #include "MCAL_Layer/PORT/Dynamic/inc/PORT_Cfg.h"
 #include "MCAL_Layer/IntCtrl/Dynamic/inc/IntCtrl_Cfg.h"
 
 
-#include "MCAL_Layer/DIO/Static/Inc/DIO.h"
+#include "MCAL_Layer/DIO/Static/inc/DIO.h"
 #include "MCAL_Layer/PORT/Static/inc/PORT.h"
 #include "MCAL_Layer/IntCtrl/Static/inc/IntCtrl.h"
 

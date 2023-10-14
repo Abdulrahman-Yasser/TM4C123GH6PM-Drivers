@@ -22,7 +22,9 @@ void WriteUsingBB(uint32* Ptr, uint32 Value){
 
 }
 
-
+void defaultCallback(void){
+	while(1);
+}
 //#ifndef PLL_STATIC_INC_PLL_H_
 //void Delay_ms(unsigned long long n){
 //    volatile unsigned long long  count = 0, i;
