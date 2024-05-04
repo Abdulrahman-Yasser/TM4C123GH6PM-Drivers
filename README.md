@@ -27,9 +27,9 @@
 - [Testing_HAL_Temp_Smoke_Water_Humanity_LCD_Buzzer_LED](APP/Testing_LCD/)<details><summary>Project's Details</summary>Reading many Sensors on an LCD</details>
 - [Testing_LCD_and_SpecificDriverTemp](APP/Testing_LCD/)<details><summary>Project's Details</summary>Testing APP_Layer that reads Temperature and write it on an LCD</details>
 - [Testing_PLL](APP/Testing_LCD/)<details><summary>Project's Details</summary>Testing Pll delay, the delay depend on the CPU clock so it always delay for the expected time</details>
-- [Testing_SevenSegment](APP/Testing_LCD/)<details><summary>Project's Details</summary>Testing Tiva-C with seven-segment, the pattern from Time-Triggered pattern design for c</details>
-- [Testing_SPI](APP/Testing_LCD/)<details><summary>Project's Details</summary>Testing SPI and read data from it using Logic-Analyzer</details>
-- [Testing_SysTick](APP/Testing_LCD/)<details><summary>Project's Details</summary>Blinking an LED using the SysTick driver</details>
+- [Testing_SevenSegment]()<details><summary>Project's Details</summary>Testing Tiva-C with seven-segment, the pattern from Time-Triggered pattern design for c</details>
+- [Testing_SPI](APP/Testing_SPI/)<details><summary>Project's Details</summary>Testing SPI and read data from it using Logic-Analyzer</details>
+- [Testing_SysTick]()<details><summary>Project's Details</summary>Blinking an LED using the SysTick driver</details>
 
 ## Steps you need to do if you are using CCS or another ide
 
